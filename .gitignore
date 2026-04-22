@@ -1,0 +1,20 @@
+# Data files
+*.json
+*.parquet
+*.npz
+*.csv
+
+# OS / IDE
+.DS_Store
+.DS_Store?
+**/.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environments
+.env
+venv/
+.venv/
+
+CLAUDE.md
