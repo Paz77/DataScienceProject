@@ -5,6 +5,7 @@
 *.csv
 *.npy
 *.pkl
+*.png
 
 # OS / IDE
 .DS_Store
