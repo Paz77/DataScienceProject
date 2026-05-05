@@ -4,7 +4,7 @@ Analyzing the DBLP V10 dataset (AMiner) to track how CS research areas emerge, c
 
 **Venues:** ICML, KDD, SIGMOD, CVPR, ACL, VLDB
 
-**Team:** Elvin, Carlos, Kelvin
+**Team:** Elvin, Carlos, Kelvin Sanchez (2355005)
 
 ---
 
